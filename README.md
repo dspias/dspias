@@ -8,6 +8,5 @@ I am a software Engineer
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: [twitter.com/ds_pias](https://twitter.com/ds_pias)
-- 😄 Pronouns: ...
 - 💼 [GitHub résumé](https://resume.github.io/?dspias)
 
