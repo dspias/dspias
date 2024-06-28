@@ -2,7 +2,7 @@
 ### Hi there!
 I am a software Engineer
 
-- 🔭 I’m currently working at [Grabstar.io](https://grabstar.io/)
+- 🔭 I’m currently working @ [Grabstar.io](https://grabstar.io/)
 - 📫 How to reach me: [https://www.linkedin.com/in/dspias](https://www.linkedin.com/in/dspias)
 - 💼 [GitHub résumé](https://resume.github.io/?dspias)
 <!-- - 🌱 I’m currently learning []
