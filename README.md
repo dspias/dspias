@@ -3,7 +3,7 @@
 I am a software Engineer
 
 - 🔭 I’m currently working at [Grabstar.io](https://grabstar.io/)
-- 📫 How to reach me: [twitter.com/ds_pias](https://twitter.com/ds_pias)
+- 📫 How to reach me: [https://www.linkedin.com/in/dspias](https://www.linkedin.com/in/dspias)
 - 💼 [GitHub résumé](https://resume.github.io/?dspias)
 <!-- - 🌱 I’m currently learning []
 - 👯 I’m looking to collaborate on ...
